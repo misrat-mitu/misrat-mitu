@@ -1,7 +1,7 @@
 ![Computer Science Engineer](https://media.licdn.com/dms/image/D5616AQHrjsotInnKVg/profile-displaybackgroundimage-shrink_350_1400/0/1714376650378?e=1720051200&v=beta&t=r2k6o8OkSyjnsso1mRq_9JAX2gvhIGO5WYoaQ086p-s)
 
-## Hi there 👋, I'm Misrat Jahan Mitu
-### Computer Science Engineer
+# Hi there 👋, I'm Misrat Jahan Mitu
+## Computer Science Engineer
 
 Hi! Welcome<br>
 This is Misrat Jahan Mitu. I studies Computer Science & Engineering(CSE) at Southeast University. I am from Dhaka,Bangladesh. During my studies,I developed a strong interest in software development and technology. I have a passion for learning and sharing my knowledge with others. Currently learning about data analytics. 
