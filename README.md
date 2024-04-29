@@ -15,7 +15,7 @@ This is Misrat Jahan Mitu. I studies Computer Science & Engineering(CSE) at Sout
 ✅ PHP <br>
 ✅ Wordpress
 
-### 👩‍🏫 I’m currently learning <br> 
+### 👩‍🏫 I’m currently learning:
 ✅ SQL <br>
 ✅ Data analytics <br>
 
