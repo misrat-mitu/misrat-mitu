@@ -8,18 +8,18 @@ This is Misrat Jahan Mitu. I studies Computer Science & Engineering(CSE) at Sout
 
 
 
-## 🖥️ Skills & Experience:
+### 🖥️ Skills & Experience:
 ✅ HTML / CSS <br>
 ✅ C / C++ <br>
 ✅ Python <br>
 ✅ PHP <br>
 ✅ Wordpress
 
-## 👩‍🏫 I’m currently learning <br> 
+### 👩‍🏫 I’m currently learning <br> 
 ✅ SQL <br>
 ✅ Data analytics <br>
 
-## 📫 How to reach me: 
+### 📫 How to reach me: 
 📧 jmisrat123@gmail.com 
 
 
